@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "59424523575",
+    "firebase_url": "https://tensorflowlitemodel.firebaseio.com",
+    "project_id": "tensorflowlitemodel",
+    "storage_bucket": "tensorflowlitemodel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59424523575:android:7bde7db5dbf5af7f",
+        "android_client_info": {
+          "package_name": "android.example.com.tflitecamerademo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59424523575-eh8ukifd9hkiqigbs612sje6u7c1kqti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.example.com.tflitecamerademo",
+            "certificate_hash": "b9c2603ddec2fc86f09b8874d8eb93c24be80721"
+          }
+        },
+        {
+          "client_id": "59424523575-pk51ums5mtvcdikmt03ptdh5851rpbjh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.example.com.tflitecamerademo",
+            "certificate_hash": "cab4b2aade895124765343e6ad9987cb5140a18c"
+          }
+        },
+        {
+          "client_id": "59424523575-stli6u8q1enfv79i6999krrg3eoaqben.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC2dmZCf90rhZrY2KIu0-PNPnzWa9i_dE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59424523575-stli6u8q1enfv79i6999krrg3eoaqben.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
